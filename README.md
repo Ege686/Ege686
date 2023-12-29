@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ege686
-- 👀 I’m interested in Unity and 2d animations
+- 👀 I’m interested in Unity, 2d animations, neural networks and a bit computer graphics
 - 🌱 I’m currently learning Neural Networks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
